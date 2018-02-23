@@ -1,0 +1,20 @@
+
+=-=-=-=-=-=-=-=-=- User Commands =-=-=-=-=-=-=-=-=-
+
+!ping - Replys with "pong"
+!info - Information about our servers
+!8ball - Ask a queston and see if your lucky
+!embed - A Test Embeded function
+!noteiceme - See if the bot can see you
+
+=-=-=-=-=-=-=-=-=- User Commands =-=-=-=-=-=-=-=-=-
+
+
+
+=-=-=-=-=-=-=-=-=- Admin Commands =-=-=-=-=-=-=-=-=-
+
+!removerole - Force Removes the Member role(Remvoes media share permissions)
+!accept - Accept the TOS's
+!clear - Clear's chat messages From a number given
+
+=-=-=-=-=-=-=-=-=- Admin Commands =-=-=-=-=-=-=-=-=-
